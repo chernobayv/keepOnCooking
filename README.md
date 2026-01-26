@@ -5,8 +5,7 @@ Animation (Blender): Victoria Chernobay <br>
 Project Description: Ivy Zheng <br>
 Presentation & Design: Ivy Zheng, Victoria Chernobay
 
-## Devpost Link
-devpost.com/software/placeholder-name-uyp8kc
+## [Devpost Link](devpost.com/software/placeholder-name-uyp8kc)
 
 ## Inspiration
 
