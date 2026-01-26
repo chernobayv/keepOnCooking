@@ -1,5 +1,12 @@
-# keepOnCooking
+#Keep’on Cooking
 My team's project for the MDL Designathon 2026!
+CAD: Chayanth Suthahar, Wasiur Rahman
+Animation (Blender): Victoria Chernobay
+Presentation & Design: Ivy Zheng
+
+$$
+\href{[https://devpost.com/software/placeholder-name-uyp8kc]}{Devpost Link}
+$$
 
 ## Inspiration
 
